@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)
 <h1 align="center">Hi 👋, I'm Radoslav Mastilović</h1>
 <h3 align="center">Fourth-year electrical engineering student at the Faculty of Technical Sciences, University of Novi Sad.</h3>
 <img align="right" alt=Coding width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
