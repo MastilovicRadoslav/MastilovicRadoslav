@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Radoslav Mastilović</h1>
-<h3 align="center">Fourth-year electrical engineering student at the Faculty of Technical Sciences, University of Novi Sad.</h3>
+<h3 align="center">Graduated Electrical Engineering and Computing Engineer from the Faculty of Technical Sciences, University of Novi Sad, with a major in Applied Software Engineering..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **radoslav930@gmail.com**
 
-- ⚡ Fun fact **Movie Marathon Runner**
+- ⚡ Fun fact **Grade: 9.00/10,
+    Activities and societies: "In my free time, I enjoy physical activities like working out at the gym and running. I am also a passionate movie enthusiast and love spending time watching various film genres."Activities and societies: "In my free time, I enjoy            physical activities like working out at the gym and running. I am also a passionate movie enthusiast and love spending time watching various film genres."
+    I recently graduated with a Bachelor's degree in Applied Software Engineering from the Faculty of Technical Sciences in Novi Sad. During my studies, I developed strong skills in software development, problem-solving, and project management. My practical experience     includes various projects available on my GitHub profile.
+    
+    I am passionate about leveraging my technical skills to create innovative solutions and contribute to meaningful projects. I am also committed to staying updated with the latest industry trends and technologies.
+    
+    I plan to further my education by enrolling in a master's program in Applied Software Engineering at the same faculty to deepen my knowledge and expertise. I am excited about opportunities to apply my skills in a dynamic and challenging environment. Feel free to       connect with me for potential collaborations or opportunities.
+    
+    I am currently pursuing a Master’s degree in Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad. Building on my strong foundation in software development and project management, I am excited to deepen my expertise and continue working on     innovative solutions. Feel free to reach out for collaborations or new opportunities.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
