@@ -5,7 +5,7 @@
 - 📫 How to reach me **radoslav930@gmail.com**
 
 - ⚡ Fun fact **
-    Grade: 9.00/10,
+    Grade: 8.95/10,
     Activities and societies: In my free time, I enjoy physical activities like working out at the gym and running. I am also a passionate movie enthusiast and love spending time watching various film genres.
     I recently graduated with a Bachelor's degree in Applied Software Engineering from the Faculty of Technical Sciences in Novi Sad. During my studies, I developed strong skills in software development, problem-solving, and project management. My practical experience     includes various projects available on my GitHub profile.
     
