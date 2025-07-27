@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radoslav Mastilović</h1>
-<h3 align="center">Graduated Electrical Engineering and Computing Engineer from the Faculty of Technical Sciences, University of Novi Sad, with a major in Applied Software Engineering..</h3>
+<h3 align="center">MSc student in Applied Software Engineering, Faculty of Technical Sciences, University of Novi Sad...</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **radoslav930@gmail.com**
