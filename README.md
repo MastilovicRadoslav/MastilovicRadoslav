@@ -5,15 +5,17 @@
 - 📫 How to reach me **radoslav930@gmail.com**
 
 - ⚡ Fun fact **
-    Grade: 8.95/10,
-    Activities and societies: In my free time, I enjoy physical activities like working out at the gym and running. I am also a passionate movie enthusiast and love spending time watching various film genres.
-    I recently graduated with a Bachelor's degree in Applied Software Engineering from the Faculty of Technical Sciences in Novi Sad. During my studies, I developed strong skills in software development, problem-solving, and project management. My practical experience     includes various projects available on my GitHub profile.
-    
-    I am passionate about leveraging my technical skills to create innovative solutions and contribute to meaningful projects. I am also committed to staying updated with the latest industry trends and technologies.
-    
-    I plan to further my education by enrolling in a master's program in Applied Software Engineering at the same faculty to deepen my knowledge and expertise. I am excited about opportunities to apply my skills in a dynamic and challenging environment. Feel free to       connect with me for potential collaborations or opportunities.
-    
-    I am currently pursuing a Master’s degree in Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad. Building on my strong foundation in software development and project management, I am excited to deepen my expertise and continue working on     innovative solutions. Feel free to reach out for collaborations or new opportunities.**
+  
+Grade: 8.95/10 (Bachelor), 10.00/10 (current Master’s average, expected graduation this year)
+
+Activities and societies: In my free time, I enjoy physical activities like working out at the gym and running. I am also a passionate movie enthusiast and love spending time watching various film genres.
+
+I graduated with a Bachelor's degree in Applied Software Engineering from the Faculty of Technical Sciences in Novi Sad, with a final grade of 8.95/10. During my studies, I developed strong skills in software development, problem-solving, and project management. My practical experience includes various projects available on my GitHub profile. I am passionate about leveraging my technical skills to create innovative solutions and contribute to meaningful projects, while staying updated with the latest industry trends and technologies.
+
+I am currently pursuing a Master’s degree in Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad, where my current GPA is 10.00/10. Building on my strong foundation in software development and project management, I am excited to deepen my expertise and continue working on innovative solutions. I expect to graduate within this year.
+
+Feel free to reach out for collaborations or new opportunities.
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
