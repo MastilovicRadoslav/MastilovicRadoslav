@@ -10,7 +10,7 @@ Grade: 8.95/10 (Bachelor), 9.80/10 (current Master’s average, expected graduat
 
 I graduated with a Bachelor's degree in Applied Software Engineering from the Faculty of Technical Sciences in Novi Sad, with a final grade of 8.95/10. 
 
-I am currently pursuing a Master’s degree in Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad, where my current GPA is 10.00/10. 
+I am currently pursuing a Master’s degree in Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad. 
 
 I will not bother you much about me, just check my repositories and projects, they tell more about me. If you are interested in cooperation, write to me. ✅
 
