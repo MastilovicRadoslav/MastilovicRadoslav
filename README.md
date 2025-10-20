@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **
   
-Grade: 8.95/10 (Bachelor), 9.80/10 (current Master’s average, expected graduation this year)
+Grade: 8.95/10 (Bachelor), 9.83/10 (current Master’s average, expected graduation this year)
 
 I graduated with a Bachelor's degree in Applied Software Engineering from the Faculty of Technical Sciences in Novi Sad, with a final grade of 8.95/10. 
 
