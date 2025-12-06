@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **
   
-Grade: 8.95/10 (Bachelor), 9.57/10 (Master)
+Grade: 8.95/10 (Bachelor), 9.63/10 (Master)
 
 I graduated with a Bachelor's degree in Applied Software Engineering from the Faculty of Technical Sciences in Novi Sad.
 
