@@ -12,7 +12,7 @@ I graduated with a Bachelor's degree in Applied Software Engineering from the Fa
 
 I graduated with a Master’s degree in Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad. 
 
-I will not bother you much about me, just check my repositories and projects, they tell more about me. If you are interested in cooperation, write to me. ✅
+I will not bother you much about me, just check my repositories and projects, they tell more about me. If you are interested in cooperation, write to me. 
 
 **
 
