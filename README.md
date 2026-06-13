@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/radoslav-mastilović-1022a020b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -116,6 +120,18 @@ Through LaunchAI I lead two large production applications, owning every layer �
   <img src="https://github-profile-trophy.vercel.app/?username=MastilovicRadoslav&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MastilovicRadoslav&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+---
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
 ---
 
 ## 🌟 Featured projects
@@ -162,6 +178,12 @@ If you'd like to talk about **AI agents**, **full-stack product work**, or **doc
   </a>
   <a href="https://www.youtube.com/channel/UC9y5MM4qEEf1jYrbWQ_RITQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://orcid.org/0009-0002-2268-2615">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://skyline.github.com/MastilovicRadoslav">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 3D" />
   </a>
 </p>
 
