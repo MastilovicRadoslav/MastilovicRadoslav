@@ -129,20 +129,20 @@ Through LaunchAI I lead two large production applications, owning every layer â€
 ## ðŸŒŸ Featured projects
 
 <p align="center">
-  <a href="https://github.com/MastilovicRadoslav/Management_of_distributed_energy_resources-DER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=Management_of_distributed_energy_resources-DER&theme=tokyonight&hide_border=true" alt="Schneider DER" />
-  </a>
   <a href="https://github.com/MastilovicRadoslav/CRUIS_Auto_Grader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=CRUIS_Auto_Grader&theme=tokyonight&hide_border=true" alt="CRUIS Auto Grader" />
+  </a>
+  <a href="https://github.com/MastilovicRadoslav/Primena_veb_programiranja_UIS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=Primena_veb_programiranja_UIS&theme=tokyonight&hide_border=true" alt="Primena veb programiranja UIS" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MastilovicRadoslav/Razvoj_CLOUD_aplikacija_UPM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=Razvoj_CLOUD_aplikacija_UPM&theme=tokyonight&hide_border=true" alt="Cloud Apps Development" />
+  <a href="https://github.com/MastilovicRadoslav/ISIS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=ISIS&theme=tokyonight&hide_border=true" alt="ISIS" />
   </a>
-  <a href="https://github.com/MastilovicRadoslav/SCADA-Akviziciono_upravljacki_sistemi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=SCADA-Akviziciono_upravljacki_sistemi&theme=tokyonight&hide_border=true" alt="SCADA Industrial Control" />
+  <a href="https://github.com/MastilovicRadoslav/Web_programiranje">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=Web_programiranje&theme=tokyonight&hide_border=true" alt="Web programiranje" />
   </a>
 </p>
 
