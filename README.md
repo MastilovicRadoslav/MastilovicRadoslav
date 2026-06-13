@@ -113,7 +113,7 @@ Through LaunchAI I lead two large production applications, owning every layer â€
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MastilovicRadoslav&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MastilovicRadoslav&theme=tokyonight&margin-w=12&margin-h=8&column=4" alt="GitHub trophies" />
 </p>
 
 <p align="center">
