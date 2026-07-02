@@ -15,9 +15,6 @@
   <a href="mailto:mastilovicradoslav@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/MastilovicRadoslav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=MastilovicRadoslav&label=Profile%20views&color=4338CA&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -121,7 +118,11 @@ Through LaunchAI I lead two large production applications, owning every layer ‚Ä
 ## üêç Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
 
 ---
