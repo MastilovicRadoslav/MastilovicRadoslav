@@ -101,8 +101,8 @@ Through LaunchAI I lead two large production applications, owning every layer â€
 ## ðŸ“Š GitHub stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/stats.svg" alt="GitHub stats" height="180" />
-  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/top-langs.svg" alt="Top languages" height="180" />
+  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="180" />
+  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" height="180" />
 </p>
 
 <p align="center">
