@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -14,8 +14,15 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
     steps:
+      - name: Checkout previous output branch (fallback copies)
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: output
+          path: previous
+
       - name: Generate snake from contribution graph
         uses: Platane/snk@v3
         id: snake-gif
@@ -26,7 +33,36 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push generated snake to output branch
+      - name: Cache github-readme-stats cards into dist
+        run: |
+          mkdir -p dist
+          fetch () {
+            local url="$1" out="dist/$2"
+            if curl -fsSL --retry 5 --retry-delay 30 --retry-all-errors \
+                 --max-time 60 "$url" -o "$out" && grep -q "<svg" "$out"; then
+              echo "OK: $2"
+            else
+              echo "FETCH FAILED: $2 — keeping previous copy if it exists"
+              rm -f "$out"
+              if [ -f "previous/$2" ]; then
+                cp "previous/$2" "$out"
+                echo "  restored previous/$2"
+              else
+                echo "  no previous copy available for $2"
+              fi
+            fi
+          }
+          BASE="https://github-readme-stats.vercel.app"
+          USER="${{ github.repository_owner }}"
+          fetch "$BASE/api?username=$USER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" stats.svg
+          fetch "$BASE/api/top-langs/?username=$USER&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" top-langs.svg
+          for repo in CRUIS_Auto_Grader Primena_veb_programiranja_UIS ISIS Web_programiranje; do
+            fetch "$BASE/api/pin/?username=$USER&repo=$repo&theme=tokyonight&hide_border=true" "pin-$repo.svg"
+          done
+          echo "--- dist contents ---"
+          ls -la dist/
+
+      - name: Push generated assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

@@ -101,8 +101,8 @@ Through LaunchAI I lead two large production applications, owning every layer â€
 ## ðŸ“Š GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MastilovicRadoslav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastilovicRadoslav&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" height="180" />
+  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/stats.svg" alt="GitHub stats" height="180" />
+  <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/top-langs.svg" alt="Top languages" height="180" />
 </p>
 
 <p align="center">
@@ -131,19 +131,19 @@ Through LaunchAI I lead two large production applications, owning every layer â€
 
 <p align="center">
   <a href="https://github.com/MastilovicRadoslav/CRUIS_Auto_Grader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=CRUIS_Auto_Grader&theme=tokyonight&hide_border=true" alt="CRUIS Auto Grader" />
+    <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/pin-CRUIS_Auto_Grader.svg" alt="CRUIS Auto Grader" />
   </a>
   <a href="https://github.com/MastilovicRadoslav/Primena_veb_programiranja_UIS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=Primena_veb_programiranja_UIS&theme=tokyonight&hide_border=true" alt="Primena veb programiranja UIS" />
+    <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/pin-Primena_veb_programiranja_UIS.svg" alt="Primena veb programiranja UIS" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MastilovicRadoslav/ISIS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=ISIS&theme=tokyonight&hide_border=true" alt="ISIS" />
+    <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/pin-ISIS.svg" alt="ISIS" />
   </a>
   <a href="https://github.com/MastilovicRadoslav/Web_programiranje">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MastilovicRadoslav&repo=Web_programiranje&theme=tokyonight&hide_border=true" alt="Web programiranje" />
+    <img src="https://raw.githubusercontent.com/MastilovicRadoslav/MastilovicRadoslav/output/pin-Web_programiranje.svg" alt="Web programiranje" />
   </a>
 </p>
 
